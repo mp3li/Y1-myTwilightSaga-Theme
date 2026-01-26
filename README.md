@@ -3,14 +3,15 @@ by mp3li
 
 ---
 
-OVERVIEW
+Overview:
+
 This repository tracks the development and version history of this custom Y1 theme.
 
 This repo is documentation-only. The full theme files, previews, and downloads are distributed through my official channels listed below.
 
 ---
 
-DOWNLOAD THIS THEME
+Download this theme:
 
 Theme Link:
 [Download the Twilight Saga Theme](https://www.patreon.com/posts/twilight-saga-y1-147707164)
@@ -18,7 +19,7 @@ Theme Link:
 
 ---
 
-FOLLOW MY WORK 
+Follow my Work:
 
 Patreon (Free Membership):
 [Absolutely zero paywall, join here.](https://www.patreon.com/cw/mp3li
@@ -33,25 +34,24 @@ This is where I post:
 
 ---
 
-ABOUT THIS PROJECT
+About this Project:
 
 This theme is part of my larger Y1 ecosystem project, focused on building:
 
 * Custom UI themes
 * Icon systems
-* Desktop theme tools
+* Desktop tools
 * Open documentation for the community (coming soon)
 
 This repository exists as a public development log and portfolio reference, showing active design and iteration without distributing the production assets directly.
 
 ---
 
-VERSION NOTES
+Version Notes:
 
 Current Version: v0.1
 Release Status: Active Development
 
-See CHANGELOG.md for detailed updates.
 
 ---
 
